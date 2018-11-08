@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8085,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.6.1",
+    "jwtSecretKey": "Y2YzOGI2ZmQ4ZWE4OWE5ZmRlYWNjYTE2MWVjNTMwNTc3NmZhZDYwZjBiYjAxYTBiZGU3NjgxMmFjNDY4OGNhNDUyNzZmOTZlYmY5MTBhYTZiYjk1OTY2ZmM3YjhjN2Y1ZGE1OThiNjBiM2M4NDQ1MzZjMjZmYWY2NTVjZGQ3YTU="
+  },
+  "git-provider": "GitHub",
+  "git-company": "MathangiV",
+  "repository-name": "jhipster-sample-application"
+}
